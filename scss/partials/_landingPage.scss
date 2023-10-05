@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap');
+
+// .landingintro {
+//   font-family: "Nabla";
+// }
 video {
   object-fit: cover;
   width: 100vw;
@@ -5,5 +11,13 @@ video {
   position: fixed;
   top: 0;
   left: 0;
+}
+
+.landingintro {
+ font-family: 'Bungee Spice',
+ cursive;
+ text-align: center;
+ font-size:7em;
+//  padding-block:1em;
 }
 

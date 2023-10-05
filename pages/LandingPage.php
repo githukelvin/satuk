@@ -12,11 +12,12 @@ include_once "../partials/TheHeader.php"
   <source src="../assests/images/student Video.mp4" type="video/mp4">
 </video>
     <div class="container absolute z-10">
-        <div class="inside">
-            <h1>Niaje,Comrades.Big Big News We Are Bring You Student platform and community.</h1>
+        <h2 class="landingintro">satuk present</h2>
+        <div class="inside bg-zinc-700/80 ">
+            <h1 class="text-center">Niaje,Comrades.Big Big News We Are Bring You Student platform and community.</h1>
             <p>Utaget all Events and News apa.Hakuna Hassle ya Information Tena</p>
             <div class="banger"><p>Stay Tuned.When launch is done it is gonna be a banger </p> 
-            <img src="../assests/images/colored.jpg" alt="microphone">
+            <img src="../assests/images/speakers.png" alt="microphone">
         </div>
         <h2>All this brought by Our beloved Finance secretary <strong>Kirera Denis Muchoki </strong></h2>
         </div>
