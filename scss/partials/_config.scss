@@ -7,6 +7,10 @@
     outline: none;
     border: none;
 }
+html,
+body {
+    height: 100%;
+}
 .container{
     width: min(100%,1440px);
     margin-inline: auto;

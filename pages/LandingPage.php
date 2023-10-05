@@ -7,12 +7,16 @@ include_once "../partials/TheHeader.php"
     class="absolute  w-auto min-w-full min-h-full max-w-none pointer-events-none"
     id="vida-bg"
     ></video> -->
-    <div class="container z-10">
+    <video playsinline autoplay muted loop  id="bgvid" 
+   >
+  <source src="../assests/images/student Video.mp4" type="video/mp4">
+</video>
+    <div class="container absolute z-10">
         <div class="inside">
             <h1>Niaje,Comrades.Big Big News We Are Bring You Student platform and community.</h1>
             <p>Utaget all Events and News apa.Hakuna Hassle ya Information Tena</p>
             <div class="banger"><p>Stay Tuned.When launch is done it is gonna be a banger </p> 
-            <img src="../assests/images/microphone.jpg" alt="microphone">
+            <img src="../assests/images/colored.jpg" alt="microphone">
         </div>
         <h2>All this brought by Our beloved Finance secretary <strong>Kirera Denis Muchoki </strong></h2>
         </div>
